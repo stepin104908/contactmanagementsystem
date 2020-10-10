@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1602136510 source:c:\users\home\desktop\github\3 implementation\contactmanagementsystem\main.c
+	<contactmanagementsystem.h>
+	"test_contactmanagementsystem.h"
+
+1602136510 source:c:\users\home\desktop\github\3 implementation\contactmanagementsystem\src\contactmanagementsystem.c
+	<contactmanagementsystem.h>
+
+1602156926 c:\users\home\desktop\github\3 implementation\contactmanagementsystem\inc\contactmanagementsystem.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1596699468 source:c:\users\home\desktop\github\3 implementation\contactmanagementsystem\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596699468 c:\users\home\desktop\github\3 implementation\contactmanagementsystem\unity\unity.h
+	"unity_internals.h"
+
+1596699468 c:\users\home\desktop\github\3 implementation\contactmanagementsystem\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1602143553 source:c:\users\home\desktop\github\3 implementation\contactmanagementsystem\test\test_contactmanagementsystem.c
+	"unity.h"
+	"contactmanagementsystem.h"
+
+1602131426 c:\users\home\desktop\github\3 implementation\contactmanagementsystem\test\test_contactmanagementsystem.h
+
