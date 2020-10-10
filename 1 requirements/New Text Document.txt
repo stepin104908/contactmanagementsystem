@@ -1,0 +1,16 @@
+> Basic functional requirements for a contact management system are:
+	
+ADD_CONTACT()   : This function allows us to add a contact details of a person such as name,phone number,email and address.
+VIEW_CONTACT()  : This function allows us to  list all the contacts that are stored previously.	
+SEARCH_CONTACT() :This function allows us to search a desired contact by specifying the contact name.
+EDIT_CONTACT()   : This function allows us to edit a contact details by specifying the contact name that is desired to edit.
+DELETE_CONTACT() : This function is to delete a contact by specifying the contact name that is desired to delete from the contact list.
+
+> Non-functional requirements are:
+	> The user must provide proper data according to the given options.
+	> The console based application is portable. So moving from one OS to another OS does not create a problem.
+	> The application is user-friendly
+> Software Required:
+	Operating Systems: windows 10
+	IDE: CodeBlocks
+	Language: C 
