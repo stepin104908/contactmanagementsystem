@@ -1,0 +1,59 @@
+TU01:
+
+Test case description: To store the contact details.
+Test steps: Enter contact details 
+	    Name (use idenical).
+	    Phone.
+	    Address.
+	    E-mail address. 
+Test inputs : Name(use identical) :bandari
+	      phone : 123
+	      address: hyd
+	      email address: b.m@gmail.com
+Test output: Contact added successfully.
+Test Status: Pass.
+
+TU02:
+
+Test case description: To list all the contact.
+Test output:  Name(use identical) :bandari
+	      phone : 123
+	      address: hyd
+	      email address: b.m@gmail.com
+Test Status: Pass.
+
+TU03:
+
+Test case description: To search the contact.
+Test steps: Enter contact details 
+	    Name (use idenical). 
+Test inputs : Name(use identical) :bandari
+Test output:  Name(use identical) :bandari
+	      phone : 123
+	      address: hyd
+	      email address: b.m@gmail.com
+Test Status: Pass.
+
+TU04:
+
+Test case description: To edit the contact.
+Test steps: Enter contact details 
+	    Name (use idenical). 
+Test inputs : Name(use identical) :manushnabandari
+	      phone : 123
+	      address: hyd
+	      email address: b.m@gmail.com
+Test output:  contact edited successfully.
+Test Status: Pass.
+
+TU05:
+
+Test case description: To delete the contact.
+Test steps: Enter contact details 
+	    Name (use idenical). 
+Test inputs : Name(use identical) :manushnabandari
+Test output:  contact deleted successfully.
+Test Status: Pass.
+
+
+
